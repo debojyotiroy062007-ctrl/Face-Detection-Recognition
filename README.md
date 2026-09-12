@@ -1,4 +1,4 @@
-﻿# Face Detection and Recognition (Task 5)
+﻿# Face Detection and Recognition 
 
 A Computer Vision project developed using **OpenCV** to perform face detection and identification on static images using Haar Feature-based Cascade Classifiers and Local Binary Patterns Histograms (LBPH).
 
